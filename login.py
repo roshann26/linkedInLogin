@@ -19,5 +19,5 @@ class Linkedin:
         time.sleep(3)
         password.send_keys(Keys.RETURN)
 
-load = Linkedin("your_email", "your_password")
+load = Linkedin("anilkumar4274@gmail.com", "Gax@2735")
 load.login()
